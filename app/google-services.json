@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376871472270",
+    "project_id": "lccnotify-81fa8",
+    "storage_bucket": "lccnotify-81fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376871472270:android:5e59da7bc5f7c31c720ddf",
+        "android_client_info": {
+          "package_name": "tw.com.watsonfan.messagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376871472270-0tr2u6ju50jn06pcoc1mue9g72ile80b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9jN_pnzcTUaUjQ90jRuc8mJ9e3PNlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376871472270-0tr2u6ju50jn06pcoc1mue9g72ile80b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
